@@ -10,3 +10,6 @@ https://www.ime.usp.br/~adao/CI1.pdf
 -Assembly Logical Instructions: https://www.tutorialspoint.com/assembly_programming/assembly_logical_instructions.htm
 -x86 Assembly Guide: http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
 -X86 Opcode and Instruction Reference: http://ref.x86asm.net/
+
+-Sistema com Sensor Ultrassônico e Display 16x2: https://www.tinkercad.com/things/dfeQy6VvdTh
+-Sistema Semáforo com Display 16x2 e Temporização com IRQ: https://www.tinkercad.com/things/iMnaKtLp7ly

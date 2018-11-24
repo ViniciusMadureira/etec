@@ -1,0 +1,12 @@
+-Compiladores:
+* https://www.tutorialspoint.com/compile_assembly_online.php
+* https://godbolt.org/
+* https://www.onlinegdb.com/online_gcc_assembler
+
+-Operações em Assembly:
+https://www.ime.usp.br/~adao/CI1.pdf
+
+-Relogix™ Assembler-to-C translator: http://www.microapl.com/asm2c/
+-Assembly Logical Instructions: https://www.tutorialspoint.com/assembly_programming/assembly_logical_instructions.htm
+-x86 Assembly Guide: http://www.cs.virginia.edu/~evans/cs216/guides/x86.html
+-X86 Opcode and Instruction Reference: http://ref.x86asm.net/
